@@ -8,7 +8,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 59,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 50,
     "timeDuration": 180
@@ -22,7 +22,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 39,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 48,
     "timeDuration": 260
@@ -36,7 +36,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 48,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 23,
     "timeDuration": 340
@@ -50,7 +50,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 59,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 21,
     "timeDuration": 230
@@ -64,7 +64,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 44,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 43,
     "timeDuration": 300
@@ -78,7 +78,7 @@
     "instractorName": "Mezanur Rahman",
     "instractorImage": "https://lh3.googleusercontent.com/a/ALm5wu1AD4jrm_COwUW8MDiBwJJiCDM-_R7ZZ1nsovRUTw=s96-c",
     "price": 59,
-    "rating": "⭐⭐⭐⭐⭐",
+    "rating": 4.5,
     "lessons": 30,
     "student": 31,
     "timeDuration": 400
