@@ -9,10 +9,6 @@ app.get("/", (req, res) => {
   res.send("Server is running");
 });
 
-app.get("/courses", (req, res) => {
-  res.send(courses);
-});
-
 app.get("/courses/:id", (req, res) => {
   const id = parseInt(req.params.id);
   console.log(courses.id);
